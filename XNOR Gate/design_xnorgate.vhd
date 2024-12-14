@@ -11,4 +11,5 @@ port (in1 : in std_logic;
       architecture behavioral of xnorgate is
       begin
       output<= not(in1 xor in2);
+      --output<=in1 xnor in2;
       end behavioral;
