@@ -71,7 +71,7 @@
     <h2>How to Use</h2>
     <ol>
         <li>Clone the repository:
-            <pre><code>git clone https://github.com/Blessedsan123/Basic-Logic-gates-VHDL.git</code></pre>
+            <pre><code>git clone https://github.com/Blessedsan123/Basic-Logic-gates-VHDL-/tree/main</code></pre>
         </li>
         <li>Navigate to the desired gate folder.</li>
         <li>Open the VHDL file in your preferred editor or simulator (e.g., ModelSim, Xilinx Vivado, etc.).</li>
